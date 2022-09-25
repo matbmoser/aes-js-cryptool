@@ -15,35 +15,11 @@
 <h4>Mathias Brunkow Moser</h4>
 <br>
 
-> ## Main Register of Libraries
+> ## Main UI
 <br>
-<img align="center" src="media/mainUi.jpg" alt="Logo" width="100%" height="100%">
-<br>
-
-> ## Movie Library (Movies List)
-<br>
-<img align="center" src="media/movieLibrary.jpg" alt="Logo" width="100%" height="100%">
+<img align="center" src="media/mainUI.jpg" alt="Logo" width="100%" height="100%">
 <br>
 
-> ## Movie Details
-<br>
-<img align="center" src="media/movieDetail.jpg" alt="Logo" width="100%" height="100%">
-<br>
-
-> ## Add Movie
-<br>
-<img align="center" src="media/addMovie.jpg" alt="Logo" width="100%" height="100%">
-<br>
-
-> ## Upload Movies
-<br>
-<img align="center" src="media/uploadMovies.jpg" alt="Logo" width="100%" height="100%">
-<br>
-
-> ## Download Movies
-<br>
-<img align="center" src="media/downloadMovies.jpg" alt="Logo" width="100%" height="100%">
-<br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
