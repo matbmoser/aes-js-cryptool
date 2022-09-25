@@ -12,7 +12,7 @@
 
 <h3><i>JS AES and RSA Cryptool using cryptjs library</i></h3>
 <br>
-<h4>Mathias Brunkow Moser</h4>
+<h4>Made By: Mathias Brunkow Moser</h4>
 <br>
 
 > ## Main UI
